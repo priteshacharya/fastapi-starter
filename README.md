@@ -1,4 +1,4 @@
-# FastAPI-Starter
+# FastAPI-Starter2
 
 A FastAPI based starter that relies heavily on existing plugins/frameworks to create an almost no-code experience. The goal is to build a template that can be used as a starting point for any FastAPI based project.
 
